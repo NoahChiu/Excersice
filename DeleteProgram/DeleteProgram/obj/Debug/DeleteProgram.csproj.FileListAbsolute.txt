@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\DeleteProgram\DeleteProgram\bin\Debug\DeleteProgram.exe.config
+C:\Users\User\source\repos\DeleteProgram\DeleteProgram\bin\Debug\DeleteProgram.exe
+C:\Users\User\source\repos\DeleteProgram\DeleteProgram\bin\Debug\DeleteProgram.pdb
+C:\Users\User\source\repos\DeleteProgram\DeleteProgram\obj\Debug\DeleteProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DeleteProgram\DeleteProgram\obj\Debug\DeleteProgram.exe
+C:\Users\User\source\repos\DeleteProgram\DeleteProgram\obj\Debug\DeleteProgram.pdb
+C:\Users\User\source\repos\DeleteProgram\DeleteProgram\obj\Debug\DeleteProgram.csprojAssemblyReference.cache
